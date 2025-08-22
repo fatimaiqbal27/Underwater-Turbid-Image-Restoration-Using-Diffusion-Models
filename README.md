@@ -1,7 +1,7 @@
-Abstract—Underwater images often face challenges due to
+Underwater images often face challenges due to
  turbidity caused by suspended particles, leading to hazy and
  distorted visuals. The lack of real-life underwater data also
- reduces the efficiency of trained models. This paper introduces
+ reduces the efficiency of trained models. This code introduces
  a diffusion model-based denoising architecture to restore under
 water turbid images. The method first quantifies the turbidity
  noise by optimizing the variance parameter using a dataset
